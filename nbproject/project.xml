@@ -3,7 +3,7 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>Areas de Figuras con IO</name>
+            <name>18. Utilizando paquete Java.io</name>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
